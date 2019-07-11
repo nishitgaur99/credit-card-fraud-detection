@@ -6,3 +6,7 @@ DataSet :
 The dataset that is used for credit card fraud detection is derived from the following Kaggle URL :
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+Models used:
+1)Local Outlier Factor (LOF)
+2)Isolation Forest Algorithm
